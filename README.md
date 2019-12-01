@@ -1,7 +1,7 @@
 # google-playstore-analysis
-A project on comprehensive analysis of the Google Playstore Apps dataset.
+A project on a comprehensive analysis of the Google Playstore Apps dataset.
 
-Using the visualization methods, we try answer the following questions:
+Using the visualization methods, we try to answer the following questions:
 
 -What types and categories of apps are the most popular across the playstore
 -What types and categories of apps get the highest number of installations
